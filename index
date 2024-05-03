@@ -2,9 +2,14 @@
 
 <body>
   <h1>Keith R Abrams</h1>
-<p>Biostatistician - Health Technology Assessment (HTA) & Health Data Science. </p>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+<p>Biostatistician - Health Technology Assessment (HTA) & Health Data Science</p>
+
+<h2>Bio</h2>
+I am Professor of Statistics & Data Science in the Department of Statistics and Adjunct Professor of 
+Biostatistics in Warwick Medical School (WMS) at the University of Warwick, and am a NIHR Senior 
+Investigator Emeritus as well as being Honorary Professor in the Centre for Health Economics at the 
+University of York. Prior to this I held academic positions at the University of Leicester, 
+the London School of Hygiene & Tropical Medicine (LSHTM) and King's College School of Medicine & Dentistry, London.
 </body>
 
 </html>
